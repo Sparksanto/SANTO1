@@ -82,11 +82,7 @@ async function main() {
     if (!m.message) return;
 
     if (m.chat.endsWith('@s.whatsapp.net')) {
-              sock.sendPresenceUpdate('recording', m.chat)
-    }      if (m.chat.endsWith('broadcast')) {
-    sock.readMessages([m.key]);
-      const status = 'undefined ilonka'
-await sock.updateProfileStatus(status);
+           ;
     }
    
   });
