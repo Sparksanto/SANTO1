@@ -22,8 +22,8 @@ $ pkg install wget
 $ pkg install ffmpeg
 $ pkg install nodejs
 $ pkg install git nodejs -y
-$ git clone https://github.com/elize21/HACK1
-$ cd HACK1
+$ git clone https://github.com/Sparksanto/SANTO1
+$ cd SANTO1
 If you did not install the node modules manually then proceed with the command below.
 $ npm install
 ```
